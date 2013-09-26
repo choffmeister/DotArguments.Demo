@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>DotArguments</id>
+    <version>0.3.1</version>
+    <title>DotArguments</title>
+    <authors>Christian Hoffmeister</authors>
+    <owners>Christian Hoffmeister</owners>
+    <licenseUrl>https://github.com/choffmeister/DotArguments/blob/master/LICENSE.md</licenseUrl>
+    <projectUrl>https://github.com/choffmeister/DotArguments</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A command-line arguments parser for .NET/Mono</description>
+    <copyright>Copyright 2013</copyright>
+    <tags>CLI</tags>
+  </metadata>
+</package>
